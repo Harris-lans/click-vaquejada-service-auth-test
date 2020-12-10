@@ -1,0 +1,6 @@
+{
+  "authSelections": "userPoolOnly",
+  "resourceName": "authtest9db024bb",
+  "serviceType": "imported",
+  "region": "us-east-1"
+}

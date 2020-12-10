@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authtest-dev-235812-authRole",
+      "UnauthRoleArn": "arn:aws:iam::473077467718:role/amplify-authtest-dev-235812-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::473077467718:role/amplify-authtest-dev-235812-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-authtest-dev-235812-deployment",
+      "UnauthRoleName": "amplify-authtest-dev-235812-unauthRole",
+      "StackName": "amplify-authtest-dev-235812",
+      "StackId": "arn:aws:cloudformation:us-east-1:473077467718:stack/amplify-authtest-dev-235812/7ba38c80-3b15-11eb-94ec-0aa443d7245f",
+      "AmplifyAppId": "d3mkg5vq790i2l"
+    },
+    "categories": {
+      "auth": {
+        "authtest9db024bb": {
+          "userPoolId": "us-east-1_KvMiw8t4z",
+          "userPoolName": "click-vaquejada-auth-harish3-user-pool",
+          "webClientId": "7t2cu1v8mtndhqh9adi7rrs7e1",
+          "nativeClientId": "4bf6tqecqrjr0jir0rjmvn2a2u"
+        }
+      }
+    }
+  }
+}
